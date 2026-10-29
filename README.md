@@ -234,45 +234,7 @@ A Python utility that generates random passwords using combinations of character
 
 ---
 
-<!-- =============== 04: GITHUB ACTIVITY =============== -->
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=1000&color=174EA6&center=true&vCenter=true&width=600&lines=%5B+04+%5D+GITHUB+ACTIVITY" />
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:174EA6,50:075E66,100:49318C" />
-
-<br/><br/>
-
-### ⚡ GitHub Overview
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=saritha922&show_icons=true&hide_border=true&bg_color=080D1B&title_color=3B82F6&icon_color=0D9488&text_color=FFFFFF&rank_icon=github" />
-
-<br/><br/>
-
-### 💻 Most Used Languages
-
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saritha922&layout=compact&hide_border=true&bg_color=080D1B&title_color=3B82F6&text_color=FFFFFF&langs_count=8" />
-
-<br/><br/>
-
-### 🔥 Contribution Streak
-
-<img width="95%" src="https://streak-stats.demolab.com?user=saritha922&hide_border=true&background=080D1B&ring=3B82F6&fire=0D9488&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=B8C1D1&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:49318C,50:075E66,100:174EA6" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=800&color=075E66&center=true&vCenter=true&width=650&lines=Every+commit+is+progress.;Every+project+is+experience.;Keep+learning.+Keep+building." />
-
-</div>
-
----
 
 <!-- =============== FOOTER =============== -->
 
