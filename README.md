@@ -27,7 +27,7 @@
 
 ---
 
-<!-- =============== ABOUT =============== -->
+<!-- =============== 01: ABOUT ME =============== -->
 
 <div align="center">
 
@@ -68,7 +68,7 @@ A Computer Science graduate focused on Python Full Stack Development. I enjoy tu
 
 ---
 
-<!-- =============== SKILLS =============== -->
+<!-- =============== 02: TECH STACK =============== -->
 
 <div align="center">
 
@@ -89,13 +89,13 @@ A Computer Science graduate focused on Python Full Stack Development. I enjoy tu
 
 ---
 
-<!-- =============== PROJECT SHOWCASE =============== -->
+<!-- =============== 03: PROJECT SHOWCASE =============== -->
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=1000&color=49318C&center=true&vCenter=true&width=650&lines=%5B+03+%5D+PROJECT+SHOWCASE" />
 
-<sub>PROJECTS BUILT THROUGH PRACTICE AND EXPLORATION</sub>
+<sub>FIVE PROJECTS • HANDS-ON LEARNING • PRACTICAL DEVELOPMENT</sub>
 
 </div>
 
@@ -103,28 +103,36 @@ A Computer Science graduate focused on Python Full Stack Development. I enjoy tu
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT_01-AI_SYSTEM-49318C?style=for-the-badge" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=AI%20VOICE%20ASSISTANT&fontSize=22&fontColor=FFFFFF&color=0:111C3D,100:49318C" />
+
+</div>
 
 ### AI Voice Assistant
 
-A voice-enabled application that connects browser speech recognition with AI-generated responses.
+A voice-enabled web application that combines browser speech recognition with AI-generated responses.
 
 **TECHNOLOGIES**
 
-<img src="https://img.shields.io/badge/Python-174EA6?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-174EA6?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-075E66?style=flat-square" />
-<img src="https://img.shields.io/badge/JavaScript-49318C?style=flat-square" />
+<img src="https://img.shields.io/badge/JavaScript-49318C?style=flat-square&logo=javascript&logoColor=white" />
 
 - Browser voice input
 - AI API integration
 - Interactive web interface
 
-[VIEW REPOSITORIES →](https://github.com/saritha922?tab=repositories)
+[Explore my repositories →](https://github.com/saritha922?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT_02-DESKTOP_APP-075E66?style=for-the-badge" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=BMI%20CALCULATOR&fontSize=22&fontColor=FFFFFF&color=0:075E66,100:174EA6" />
+
+</div>
 
 ### BMI Calculator
 
@@ -132,7 +140,7 @@ A desktop application for calculating BMI, saving measurement history, and visua
 
 **TECHNOLOGIES**
 
-<img src="https://img.shields.io/badge/Python-174EA6?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-174EA6?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-075E66?style=flat-square" />
 <img src="https://img.shields.io/badge/Matplotlib-49318C?style=flat-square" />
 
@@ -140,34 +148,43 @@ A desktop application for calculating BMI, saving measurement history, and visua
 - Database-backed history
 - BMI trend charts
 
-[VIEW REPOSITORIES →](https://github.com/saritha922?tab=repositories)
+[Explore my repositories →](https://github.com/saritha922?tab=repositories)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT_03-API_APP-174EA6?style=for-the-badge" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=WEATHER%20APP&fontSize=22&fontColor=FFFFFF&color=0:174EA6,100:075E66" />
+
+</div>
 
 ### Weather Application
 
-Retrieves current weather information through an external weather API.
+Retrieves current weather information using an external weather API.
 
 **TECHNOLOGIES**
 
-<img src="https://img.shields.io/badge/Python-174EA6?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-174EA6?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenWeather_API-075E66?style=flat-square" />
 
 - Current weather data
 - Temperature and conditions
 - API response handling
 
-[VIEW REPOSITORIES →](https://github.com/saritha922?tab=repositories)
+[Explore my repositories →](https://github.com/saritha922?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT_04-WEB_GAME-49318C?style=for-the-badge" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=SNAKE%20GAME&fontSize=22&fontColor=FFFFFF&color=0:49318C,100:111C3D" />
+
+</div>
 
 ### Snake Game
 
@@ -175,30 +192,41 @@ A browser-based game with keyboard controls, scoring, and saved high scores.
 
 **TECHNOLOGIES**
 
-<img src="https://img.shields.io/badge/HTML-174EA6?style=flat-square" />
-<img src="https://img.shields.io/badge/CSS-075E66?style=flat-square" />
-<img src="https://img.shields.io/badge/JavaScript-49318C?style=flat-square" />
+<img src="https://img.shields.io/badge/HTML-174EA6?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-075E66?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-49318C?style=flat-square&logo=javascript&logoColor=white" />
 
 - Interactive gameplay
 - Score tracking
 - Local storage and sounds
 
-[VIEW REPOSITORIES →](https://github.com/saritha922?tab=repositories)
+[Explore my repositories →](https://github.com/saritha922?tab=repositories)
 
 </td>
 </tr>
+
 <tr>
 <td colspan="2" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT_05-PYTHON_UTILITY-174EA6?style=for-the-badge" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=PASSWORD%20GENERATOR&fontSize=22&fontColor=FFFFFF&color=0:111C3D,50:174EA6,100:075E66" />
+
+</div>
 
 ### Password Generator
 
-A Python utility that generates random passwords from character combinations.
+A Python utility that generates random passwords using combinations of characters.
 
-**TECHNOLOGIES:** Python
+**TECHNOLOGIES**
 
-[VIEW REPOSITORIES →](https://github.com/saritha922?tab=repositories)
+<img src="https://img.shields.io/badge/Python-174EA6?style=flat-square&logo=python&logoColor=white" />
+
+- Random password generation
+- Character combination support
+- Simple and practical utility
+
+[Explore my repositories →](https://github.com/saritha922?tab=repositories)
 
 </td>
 </tr>
@@ -206,23 +234,41 @@ A Python utility that generates random passwords from character combinations.
 
 ---
 
-<!-- =============== GITHUB STATS =============== -->
+<!-- =============== 04: GITHUB ACTIVITY =============== -->
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=1000&color=174EA6&center=true&vCenter=true&width=600&lines=%5B+04+%5D+GITHUB+ACTIVITY" />
 
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:174EA6,50:075E66,100:49318C" />
+
 <br/><br/>
+
+### ⚡ GitHub Overview
 
 <img width="95%" src="https://github-readme-stats.vercel.app/api?username=saritha922&show_icons=true&hide_border=true&bg_color=080D1B&title_color=3B82F6&icon_color=0D9488&text_color=FFFFFF&rank_icon=github" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saritha922&layout=compact&hide_border=true&bg_color=080D1B&title_color=3B82F6&text_color=FFFFFF" />
+### 💻 Most Used Languages
+
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saritha922&layout=compact&hide_border=true&bg_color=080D1B&title_color=3B82F6&text_color=FFFFFF&langs_count=8" />
 
 <br/><br/>
 
+### 🔥 Contribution Streak
+
 <img width="95%" src="https://streak-stats.demolab.com?user=saritha922&hide_border=true&background=080D1B&ring=3B82F6&fire=0D9488&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=B8C1D1&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:49318C,50:075E66,100:174EA6" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=800&color=075E66&center=true&vCenter=true&width=650&lines=Every+commit+is+progress.;Every+project+is+experience.;Keep+learning.+Keep+building." />
 
 </div>
 
@@ -233,6 +279,12 @@ A Python utility that generates random passwords from character combinations.
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=900&color=174EA6&center=true&vCenter=true&width=650&lines=KEEP+LEARNING.;KEEP+BUILDING.;KEEP+MOVING+FORWARD." />
+
+<br/><br/>
+
+<a href="https://github.com/saritha922?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-174EA6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/><br/>
 
