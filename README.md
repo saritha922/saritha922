@@ -104,14 +104,10 @@ A Computer Science graduate focused on Python Full Stack Development. I enjoy tu
 <td width="50%" valign="top">
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=AI%20VOICE%20ASSISTANT&fontSize=22&fontColor=FFFFFF&color=0:111C3D,100:49318C" />
-
 </div>
 
-### AI Voice Assistant
-
-A voice-enabled web application that combines browser speech recognition with AI-generated responses.
+A voice-enabled web application combining browser speech recognition with AI-generated responses.
 
 **TECHNOLOGIES**
 
@@ -129,12 +125,8 @@ A voice-enabled web application that combines browser speech recognition with AI
 <td width="50%" valign="top">
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=BMI%20CALCULATOR&fontSize=22&fontColor=FFFFFF&color=0:075E66,100:174EA6" />
-
 </div>
-
-### BMI Calculator
 
 A desktop application for calculating BMI, saving measurement history, and visualizing trends.
 
@@ -157,12 +149,8 @@ A desktop application for calculating BMI, saving measurement history, and visua
 <td width="50%" valign="top">
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=WEATHER%20APP&fontSize=22&fontColor=FFFFFF&color=0:174EA6,100:075E66" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=WEATHER%20APPLICATION&fontSize=22&fontColor=FFFFFF&color=0:174EA6,100:075E66" />
 </div>
-
-### Weather Application
 
 Retrieves current weather information using an external weather API.
 
@@ -181,12 +169,8 @@ Retrieves current weather information using an external weather API.
 <td width="50%" valign="top">
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=SNAKE%20GAME&fontSize=22&fontColor=FFFFFF&color=0:49318C,100:111C3D" />
-
 </div>
-
-### Snake Game
 
 A browser-based game with keyboard controls, scoring, and saved high scores.
 
@@ -209,12 +193,8 @@ A browser-based game with keyboard controls, scoring, and saved high scores.
 <td colspan="2" valign="top">
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=PASSWORD%20GENERATOR&fontSize=22&fontColor=FFFFFF&color=0:111C3D,50:174EA6,100:075E66" />
-
 </div>
-
-### Password Generator
 
 A Python utility that generates random passwords using combinations of characters.
 
@@ -233,8 +213,6 @@ A Python utility that generates random passwords using combinations of character
 </table>
 
 ---
-
-
 
 <!-- =============== FOOTER =============== -->
 
