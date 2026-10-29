@@ -1,13 +1,93 @@
 
+<!-- =============== TECHNICAL SKILLS =============== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:020617,45:0E7490,100:06B6D4&text=FEATURED%20PROJECTS&fontSize=34&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Animated featured projects banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:020617,50:0E7490,100:06B6D4&text=TECHNICAL%20SKILLS&fontSize=32&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Technical skills banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=750&lines=REAL+PROJECTS.+PRACTICAL+SKILLS.;DESIGNED+TO+SOLVE+REAL+PROBLEMS.;EXPLORE+MY+DEVELOPMENT+JOURNEY." alt="Animated project introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=700&color=67E8F9&center=true&vCenter=true&width=700&lines=MY+TECHNOLOGY+STACK;TOOLS+I+USE+TO+BUILD+APPLICATIONS;ALWAYS+LEARNING+SOMETHING+NEW" alt="Animated skills heading" />
+
+</div>
+
+### 💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript&theme=dark" alt="Python and JavaScript" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-083344?style=for-the-badge&logo=python&logoColor=67E8F9" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-083344?style=for-the-badge&logo=javascript&logoColor=67E8F9" alt="JavaScript" />
+
+</div>
+
+### 🎨 Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML and CSS" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/HTML5-083344?style=for-the-badge&logo=html5&logoColor=67E8F9" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-083344?style=for-the-badge&logo=css3&logoColor=67E8F9" alt="CSS3" />
+
+</div>
+
+### 🗄️ Database Management
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="MySQL and SQLite" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/MySQL-083344?style=for-the-badge&logo=mysql&logoColor=67E8F9" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-083344?style=for-the-badge&logo=sqlite&logoColor=67E8F9" alt="SQLite" />
+
+</div>
+
+### ⚙️ Frameworks, Libraries & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flask,git,github,vscode&theme=dark" alt="Flask, Git, GitHub and VS Code" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Flask-083344?style=for-the-badge&logo=flask&logoColor=67E8F9" alt="Flask" />
+<img src="https://img.shields.io/badge/Tkinter-083344?style=for-the-badge&logo=python&logoColor=67E8F9" alt="Tkinter" />
+<img src="https://img.shields.io/badge/Matplotlib-083344?style=for-the-badge&logo=python&logoColor=67E8F9" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Git-083344?style=for-the-badge&logo=git&logoColor=67E8F9" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-083344?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-083344?style=for-the-badge&logo=visualstudiocode&logoColor=67E8F9" alt="VS Code" />
+
+</div>
+
+### 🧠 Core Development Skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-083344?style=flat-square&logo=python&logoColor=67E8F9" alt="Object-oriented programming" />
+<img src="https://img.shields.io/badge/SQL%20Queries-083344?style=flat-square&logo=mysql&logoColor=67E8F9" alt="SQL queries" />
+<img src="https://img.shields.io/badge/REST%20API%20Integration-083344?style=flat-square&logo=fastapi&logoColor=67E8F9" alt="API integration" />
+<img src="https://img.shields.io/badge/Problem%20Solving-083344?style=flat-square&logo=leetcode&logoColor=67E8F9" alt="Problem solving" />
+<img src="https://img.shields.io/badge/Debugging-083344?style=flat-square&logo=python&logoColor=67E8F9" alt="Debugging" />
 
 </div>
 
 ---
+
+<!-- =============== FEATURED PROJECTS =============== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:020617,45:083344,100:06B6D4&text=FEATURED%20PROJECTS&fontSize=35&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%" alt="Featured projects cinematic banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2300&pause=700&color=67E8F9&center=true&vCenter=true&width=750&lines=IDEAS+INTO+APPLICATIONS;CODE+INTO+REAL+PROJECTS;BUILDING+MY+DEVELOPER+JOURNEY" alt="Animated project introduction" />
+
+</div>
 
 <table>
 <tr>
@@ -15,52 +95,40 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:083344,100:0891B2&text=01%20%7C%20AI%20VOICE%20ASSISTANT&fontSize=19&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="AI Voice Assistant animated banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:083344,100:0891B2&text=01%20%7C%20AI%20VOICE%20ASSISTANT&fontSize=18&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="AI Voice Assistant" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=380&lines=VOICE+INPUT;AI-GENERATED+RESPONSES;FLASK+WEB+APPLICATION" alt="AI Voice Assistant animated features" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=67E8F9&center=true&vCenter=true&width=350&lines=VOICE+INTERACTION;AI+RESPONSES;FLASK+WEB+APPLICATION" alt="AI project animation" />
 
 </div>
 
-An interactive web-based voice assistant that combines speech recognition with AI-generated responses.
+An AI-powered web assistant that combines browser speech recognition with AI-generated responses.
 
-**Key features**
-- Voice interaction through the browser
+**Features**
+- Voice-based interaction
 - AI response integration
-- Web-based user interface
+- Web interface
 
-**Technology stack**
-
-<img src="https://img.shields.io/badge/Python-083344?style=flat-square&logo=python&logoColor=67E8F9" alt="Python" />
-<img src="https://img.shields.io/badge/Flask-083344?style=flat-square&logo=flask&logoColor=67E8F9" alt="Flask" />
-<img src="https://img.shields.io/badge/JavaScript-083344?style=flat-square&logo=javascript&logoColor=67E8F9" alt="JavaScript" />
+**Stack:** Python · Flask · JavaScript · HTML · CSS
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:083344,100:0891B2&text=02%20%7C%20BMI%20CALCULATOR&fontSize=19&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="BMI Calculator animated banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:083344,100:0891B2&text=02%20%7C%20BMI%20CALCULATOR&fontSize=18&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="BMI Calculator" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=380&lines=BMI+CALCULATION;SQLITE+HISTORY;GRAPHICAL+TREND+VISUALIZATION" alt="BMI Calculator animated features" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=67E8F9&center=true&vCenter=true&width=350&lines=BMI+CALCULATION;DATABASE+HISTORY;GRAPH+VISUALIZATION" alt="BMI project animation" />
 
 </div>
 
-A desktop application for calculating BMI, storing history, validating inputs, and visualizing BMI trends.
+A desktop application that calculates BMI and stores history with graphical trend visualization.
 
-**Key features**
-- BMI calculation and validation
-- SQLite history storage
-- Graphical trend visualization
+**Features**
+- Input validation
+- SQLite history
+- BMI trend graph
 
-**Technology stack**
-
-<img src="https://img.shields.io/badge/Python-083344?style=flat-square&logo=python&logoColor=67E8F9" alt="Python" />
-<img src="https://img.shields.io/badge/SQLite-083344?style=flat-square&logo=sqlite&logoColor=67E8F9" alt="SQLite" />
-<img src="https://img.shields.io/badge/Matplotlib-083344?style=flat-square&logo=python&logoColor=67E8F9" alt="Matplotlib" />
+**Stack:** Python · Tkinter · SQLite · Matplotlib
 
 </td>
 </tr>
@@ -69,51 +137,40 @@ A desktop application for calculating BMI, storing history, validating inputs, a
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:083344,100:0891B2&text=03%20%7C%20WEATHER%20APP&fontSize=19&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Weather App animated banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:083344,100:0891B2&text=03%20%7C%20WEATHER%20APP&fontSize=18&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Weather application" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=380&lines=LIVE+WEATHER+DATA;EXTERNAL+API+INTEGRATION;DYNAMIC+WEATHER+INFORMATION" alt="Weather App animated features" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=67E8F9&center=true&vCenter=true&width=350&lines=WEATHER+API;LIVE+CONDITIONS;EXTERNAL+DATA" alt="Weather project animation" />
 
 </div>
 
-An application that retrieves weather information from an external weather API and displays current conditions.
+Retrieves weather conditions from an external API and displays current weather information.
 
-**Key features**
+**Features**
 - API integration
 - Dynamic weather data
-- Real-world data retrieval
+- Current condition display
 
-**Technology stack**
-
-<img src="https://img.shields.io/badge/Python-083344?style=flat-square&logo=python&logoColor=67E8F9" alt="Python" />
-<img src="https://img.shields.io/badge/API-083344?style=flat-square&logo=fastapi&logoColor=67E8F9" alt="API integration" />
+**Stack:** Python · Weather API · Web Technologies
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:083344,100:0891B2&text=04%20%7C%20SNAKE%20GAME&fontSize=19&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Snake Game animated banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:083344,100:0891B2&text=04%20%7C%20SNAKE%20GAME&fontSize=18&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Snake Game" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=380&lines=INTERACTIVE+GAMEPLAY;KEYBOARD+CONTROLS;SCORE+%26+HIGH+SCORE+TRACKING" alt="Snake Game animated features" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=67E8F9&center=true&vCenter=true&width=350&lines=INTERACTIVE+GAMEPLAY;KEYBOARD+CONTROLS;HIGH+SCORE+TRACKING" alt="Snake Game animation" />
 
 </div>
 
-A browser-based game demonstrating interactive JavaScript logic and score tracking.
+A browser game built with JavaScript, featuring interactive gameplay and score tracking.
 
-**Key features**
-- Keyboard-controlled gameplay
-- Score and high-score tracking
-- Browser-based interface
+**Features**
+- Keyboard controls
+- Score tracking
+- Saved high score
 
-**Technology stack**
-
-<img src="https://img.shields.io/badge/HTML5-083344?style=flat-square&logo=html5&logoColor=67E8F9" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-083344?style=flat-square&logo=css3&logoColor=67E8F9" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-083344?style=flat-square&logo=javascript&logoColor=67E8F9" alt="JavaScript" />
+**Stack:** HTML · CSS · JavaScript
 
 </td>
 </tr>
@@ -122,40 +179,30 @@ A browser-based game demonstrating interactive JavaScript logic and score tracki
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:083344,100:0891B2&text=05%20%7C%20PASSWORD%20GENERATOR&fontSize=17&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Password Generator animated banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:083344,100:0891B2&text=05%20%7C%20PASSWORD%20GENERATOR&fontSize=16&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Password Generator" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=380&lines=PASSWORD+GENERATION;CONFIGURABLE+CHARACTERS;PYTHON+PROGRAMMING" alt="Password Generator animated features" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=67E8F9&center=true&vCenter=true&width=350&lines=PASSWORD+CREATION;CHARACTER+COMBINATIONS;PYTHON+UTILITY" alt="Password Generator animation" />
 
 </div>
 
-A Python utility that generates passwords using configurable character combinations.
+A Python utility that generates passwords using character combinations.
 
-**Technology stack**
-
-<img src="https://img.shields.io/badge/Python-083344?style=flat-square&logo=python&logoColor=67E8F9" alt="Python" />
+**Stack:** Python
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:083344,100:0891B2&text=MORE%20PROJECTS%20COMING&fontSize=18&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Future projects banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:083344,100:0891B2&text=06%20%7C%20CURRENT%20FOCUS&fontSize=18&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Current focus" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=380&lines=PYTHON+FULL+STACK;DATABASES+%26+BACKEND;CONTINUOUS+LEARNING" alt="Future development goals" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=67E8F9&center=true&vCenter=true&width=350&lines=PYTHON+FULL+STACK;SQL+PRACTICE;WEB+DEVELOPMENT" alt="Current learning animation" />
 
 </div>
 
-Continuously improving my full-stack skills through practical development, coding practice, and new projects.
+Developing stronger full-stack skills and building more practical applications.
 
-**Current focus**
-
-<img src="https://img.shields.io/badge/Python-083344?style=flat-square&logo=python&logoColor=67E8F9" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-083344?style=flat-square&logo=mysql&logoColor=67E8F9" alt="SQL" />
-<img src="https://img.shields.io/badge/JavaScript-083344?style=flat-square&logo=javascript&logoColor=67E8F9" alt="JavaScript" />
+**Focus:** Python · SQL · JavaScript
 
 </td>
 </tr>
@@ -163,8 +210,8 @@ Continuously improving my full-stack skills through practical development, codin
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,50:67E8F9,100:0891B2" width="100%" alt="Aqua divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,50:67E8F9,100:0891B2" width="100%" alt="Aqua separator" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=800&color=67E8F9&center=true&vCenter=true&width=700&lines=EVERY+PROJECT+TELLS+A+STORY;EVERY+BUG+TEACHES+A+LESSON;EVERY+BUILD+MAKES+ME+BETTER" alt="Animated project closing statement" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=700&lines=KEEP+LEARNING;KEEP+BUILDING;KEEP+MOVING+FORWARD" alt="Animated closing statement" />
 
 </div>
