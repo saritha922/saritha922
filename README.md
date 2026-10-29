@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:070B18,30:111C3D,65:273C91,100:087E8B&text=SARITHA&fontSize=78&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descSize=19&descColor=FFFFFF&descAlignY=58" />
+<img width="80%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:070B18,30:111C3D,65:273C91,100:087E8B&text=SARITHA&fontSize=78&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descSize=19&descColor=FFFFFF&descAlignY=58" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2300&pause=700&color=1687E8&center=true&vCenter=true&width=750&lines=%3E+PYTHON+%7C+SQL+%7C+WEB+DEVELOPMENT;%3E+BUILDING+REAL+WORLD+APPLICATIONS;%3E+LEARNING.+CREATING.+IMPROVING." />
 
@@ -94,9 +94,9 @@ A Computer Science graduate focused on Python Full Stack Development. I enjoy tu
 
 <div align="center">
 
-# 🚀 PROJECT SHOWCASE
+# 🚀 PROJECT 
 
-**FIVE PROJECTS • PRACTICAL DEVELOPMENT • CONTINUOUS LEARNING**
+**• PRACTICAL DEVELOPMENT • CONTINUOUS LEARNING**
 
 </div>
 
