@@ -1,61 +1,75 @@
 
+<!-- ================= CINEMATIC PROFILE HEADER ================= -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:111827,55:312E81,80:6D28D9,100:0891B2&text=SARITHA&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descSize=18&descColor=67E8F9&descAlignY=58&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,20:0F172A,45:312E81,70:7C3AED,100:06B6D4&text=SARITHA&fontSize=80&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descSize=20&descColor=67E8F9&descAlignY=56" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer+in+Progress;Turning+Ideas+Into+Real+Applications;Building.+Learning.+Improving.;One+Project+At+A+Time." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=%3E+Initializing+Developer+Profile...;%3E+Python+%7C+SQL+%7C+Web+Development;%3E+Building+Real-World+Applications;%3E+Turning+Ideas+Into+Code+%E2%9C%A8" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/saritha922?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/%E2%96%B6_EXPLORE_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/saritha922">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-0891B2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/CONNECT_WITH_ME-0891B2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BASED%20ON-PYTHON-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/POWERED%20BY-CURIOSITY-A78BFA?style=flat-square" />
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-34D399?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=saritha922&style=for-the-badge&color=7C3AED&label=VISITORS" />
 
 </div>
 
 ---
 
+<!-- ================= ABOUT ME ================= -->
+
 <div align="center">
 
-## ◈ THE DEVELOPER BEHIND THE CODE
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=%5B+01+%5D+ABOUT+THE+DEVELOPER" />
 
 </div>
 
 <table>
 <tr>
-<td width="58%" valign="middle">
+<td width="60%" valign="middle">
 
-### Hey, I'm Saritha 👋
+### `Hello, World!` 👋
 
-A Computer Science graduate passionate about software development, problem-solving, and building useful applications.
+I'm **Saritha**, a Computer Science graduate working toward becoming a Python Full Stack Developer.
 
-I'm currently strengthening my **Python Full Stack Development** skills and turning what I learn into real projects.
+I enjoy turning ideas into applications and learning how software works behind the scenes.
 
-- `01` — Writing Python and SQL
-- `02` — Building interactive web interfaces
-- `03` — Connecting applications with databases and APIs
-- `04` — Learning through projects and coding practice
+```python
+class Developer:
+    name = "Saritha"
+    education = "B.Tech CSE"
+    focus = "Python Full Stack"
+    learning = [
+        "Python",
+        "SQL",
+        "HTML & CSS",
+        "JavaScript"
+    ]
 
-**My mission:** Become a confident developer who can turn real-world problems into working software.
+    def mission(self):
+        return "Build. Learn. Innovate."
+```
+
+**Current mission:** Strengthen my development skills, build practical projects, and prepare for software developer opportunities.
 
 </td>
-<td width="42%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
 <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/THINK-0F172A?style=for-the-badge&labelColor=7C3AED" />
-<img src="https://img.shields.io/badge/BUILD-0F172A?style=for-the-badge&labelColor=0891B2" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING-7C3AED?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-0891B2?style=for-the-badge" />
 
 </td>
 </tr>
@@ -63,35 +77,42 @@ I'm currently strengthening my **Python Full Stack Development** skills and turn
 
 ---
 
+<!-- ================= TECH STACK ================= -->
+
 <div align="center">
 
-## ◈ MY TECH STACK
-
-<sub>Tools I'm learning and using to build applications</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=%5B+02+%5D+TECH+ARSENAL" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,flask,git,github,vscode&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,flask,git,github,vscode&theme=dark&perline=5" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-Database-7C3AED?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/API_INTEGRATION-0891B2?style=for-the-badge" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-0891B2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Concepts-OOP%20%7C%20CRUD%20%7C%20APIs-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OOP-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/CRUD-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/DEBUGGING-059669?style=flat-square" />
+<img src="https://img.shields.io/badge/PROBLEM_SOLVING-DB2777?style=flat-square" />
 
 </div>
 
 ---
 
+<!-- ================= PROJECT SHOWCASE ================= -->
+
 <div align="center">
 
-## ◈ SELECTED PROJECTS
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=%5B+03+%5D+PROJECTS+FROM+MY+LAB" />
 
-<sub>Practical applications built while learning and experimenting</sub>
+<br/>
+
+<sub>REAL PROJECTS · PRACTICAL SKILLS · CONTINUOUS IMPROVEMENT</sub>
 
 </div>
 
@@ -99,87 +120,94 @@ I'm currently strengthening my **Python Full Stack Development** skills and turn
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT_01-AI%20%2F%20VOICE-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/01-ARTIFICIAL_INTELLIGENCE-7C3AED?style=for-the-badge" />
 
 ### 🎙️ AI Voice Assistant
 
-A voice-enabled web application that connects speech input with AI-generated responses.
+A voice-enabled web application that connects browser speech recognition with AI-powered responses.
 
-**Built with:** Python · Flask · JavaScript · AI API
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask" />
+<img src="https://img.shields.io/badge/JavaScript-FACC15?style=flat-square&logo=javascript&logoColor=black" />
 
-- Voice input through the browser
-- AI response integration
+- Speech input through the browser
+- AI API integration
 - Interactive web interface
 
-<a href="https://github.com/saritha922?tab=repositories">⌁ VIEW PROJECTS →</a>
+[**↗ Explore repositories**](https://github.com/saritha922?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT_02-DESKTOP%20APP-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-DESKTOP_APPLICATION-0891B2?style=for-the-badge" />
 
-### 📈 BMI Calculator
+### 📊 BMI Calculator
 
-A desktop application for calculating BMI and tracking measurements over time.
+A desktop application that calculates BMI, saves measurement history, and visualizes trends.
 
-**Built with:** Python · Tkinter · SQLite · Matplotlib
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-7C3AED?style=flat-square" />
 
-- Input validation and calculations
-- Saved measurement history
+- Input validation
+- Persistent SQLite history
 - BMI trend charts
 
-<a href="https://github.com/saritha922?tab=repositories">⌁ VIEW PROJECTS →</a>
+[**↗ Explore repositories**](https://github.com/saritha922?tab=repositories)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT_03-API%20INTEGRATION-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/03-API_INTEGRATION-059669?style=for-the-badge" />
 
 ### 🌦️ Weather Application
 
-A weather app that retrieves current weather information from an external API.
+Retrieves current weather conditions using the OpenWeather API.
 
-**Built with:** Python · OpenWeather API
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-0891B2?style=flat-square" />
 
-- Live weather data
+- Weather data retrieval
 - Temperature and conditions
 - API response handling
 
-<a href="https://github.com/saritha922?tab=repositories">⌁ VIEW PROJECTS →</a>
+[**↗ Explore repositories**](https://github.com/saritha922?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT_04-WEB%20GAME-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/04-FRONTEND_GAME-F97316?style=for-the-badge" />
 
 ### 🐍 Snake Game
 
-A browser game featuring keyboard controls, scoring, and saved high scores.
+An interactive browser game with keyboard controls, scoring, and saved high scores.
 
-**Built with:** HTML · CSS · JavaScript
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-FACC15?style=flat-square&logo=javascript&logoColor=black" />
 
 - Interactive gameplay
 - Score and high-score tracking
-- Local storage and sound effects
+- Local storage and sounds
 
-<a href="https://github.com/saritha922?tab=repositories">⌁ VIEW PROJECTS →</a>
+[**↗ Explore repositories**](https://github.com/saritha922?tab=repositories)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT_05-UTILITY%20TOOL-DB2777?style=for-the-badge" />
+<img src="https://img.shields.io/badge/05-UTILITY_TOOL-DB2777?style=for-the-badge" />
 
 ### 🔐 Password Generator
 
-A utility project that generates random passwords using character combinations.
+A Python utility that generates random passwords using character combinations.
 
-**Built with:** Python
+**Focus:** Random generation · Python logic · Utility development
 
-<a href="https://github.com/saritha922?tab=repositories">⌁ VIEW PROJECTS →</a>
+[**↗ Explore repositories**](https://github.com/saritha922?tab=repositories)
 
 </td>
 </tr>
@@ -188,49 +216,51 @@ A utility project that generates random passwords using character combinations.
 <div align="center">
 
 <a href="https://github.com/saritha922?tab=repositories">
-<img src="https://img.shields.io/badge/SEE%20ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-020617?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
 
 </div>
 
 ---
 
+<!-- ================= GITHUB ANALYTICS ================= -->
+
 <div align="center">
 
-## ◈ GITHUB COMMAND CENTER
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=%5B+04+%5D+GITHUB+ACTIVITY" />
+
+<br/><br/>
 
 <img width="90%" src="https://github-readme-stats.vercel.app/api?username=saritha922&show_icons=true&hide_border=true&bg_color=080B18&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" />
 
-<br/>
+<br/><br/>
 
 <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saritha922&layout=compact&hide_border=true&bg_color=080B18&title_color=22D3EE&text_color=E2E8F0" />
 
-<br/>
+<br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=saritha922&hide_border=true&background=080B18&ring=7C3AED&fire=F97316&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="90%" src="https://streak-stats.demolab.com?user=saritha922&hide_border=true&background=080B18&ring=7C3AED&fire=F97316&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8" />
 
 </div>
 
 ---
 
+<!-- ================= FOOTER ================= -->
+
 <div align="center">
 
-## ◈ THE NEXT CHAPTER
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=%3E+Dream+Big.+Code+Bigger.;%3E+Consistency+Creates+Progress.;%3E+My+Developer+Journey+Continues..." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Mastering+Python+and+SQL;Building+better+full+stack+projects;Preparing+for+software+developer+roles;The+journey+is+still+in+progress..." />
+<br/><br/>
 
-<br/>
-
-**I believe consistent learning and practical building create real growth.**
+**Thanks for visiting my profile. Let's build something meaningful!**
 
 <br/>
 
 <a href="https://github.com/saritha922">
-<img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/LET'S_BUILD_THE_FUTURE-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0891B2,45:312E81,100:020617" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,40:312E81,75:111827,100:020617" />
 
 </div>
