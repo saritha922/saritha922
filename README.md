@@ -1,294 +1,230 @@
 
-<!-- =============== ANIMATED CINEMATIC HEADER =============== -->
+<!-- ═══════════════ CINEMATIC HERO ═══════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,30:00D9FF,65:39FF14,100:7C3AED&height=220&section=header&text=SARITHA&fontSize=72&fontColor=002B36&fontAlignY=36&animation=twinkling&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=58&descColor=003B36" alt="Saritha animated header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,35:312E81,70:6D28D9,100:06B6D4&height=230&section=header&text=SARITHA&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=58&descColor=67E8F9" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=1800&pause=500&color=00F5D4&center=true&vCenter=true&width=800&height=55&lines=CODE+%E2%80%A2+BUILD+%E2%80%A2+INNOVATE;TURNING+IDEAS+INTO+APPLICATIONS;PYTHON+%7C+SQL+%7C+WEB+DEVELOPMENT" alt="Animated developer tagline"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+ideas+into+working+applications;Python+%7C+SQL+%7C+Web+Development;Learning+Every+Day.+Building+Every+Day.;Future+Software+Developer+%F0%9F%9A%80" alt="Animated typing introduction" />
+</a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/BUILDING-REAL%20WORLD%20PROJECTS-00F5D4?style=for-the-badge&labelColor=003B36" alt="Building projects"/>
-<img src="https://img.shields.io/badge/ALWAYS-LEARNING-39FF14?style=for-the-badge&labelColor=003B36" alt="Always learning"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-06B6D4?style=for-the-badge&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/BACKEND-PYTHON-7C3AED?style=for-the-badge&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-10B981?style=for-the-badge&labelColor=0B1020" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-saritha922-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/saritha922)
+![Profile Views](https://komarev.com/ghpvc/?username=saritha922&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+## `01` // WHO AM I?
 
-<h2>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2000&pause=900&color=00F5D4&width=350&height=45&lines=%3E+ABOUT+ME" alt="About me"/>
-</h2>
+<img align="right" width="155" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- Computer Science Engineering graduate.
-- Learning and developing as a **Python Full Stack Developer**.
-- Interested in building practical applications and solving coding problems.
-- Experience with Python projects, web technologies, databases, and API integration.
-- Focused on continuous learning, improving problem-solving skills, and preparing for software development opportunities.
+Hi! I'm **Saritha**, a Computer Science graduate working toward becoming a skilled Python Full Stack Developer.
 
-<p>
-<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-00F5D4?style=for-the-badge&labelColor=003B36" alt="Problem solving"/>
-<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-39FF14?style=for-the-badge&labelColor=003B36" alt="Continuous learning"/>
-<img src="https://img.shields.io/badge/FULL%20STACK-00D9FF?style=for-the-badge&labelColor=003B36" alt="Full stack"/>
-</p>
+- 🎓 B.Tech in Computer Science
+- 🐍 Learning and building with Python
+- 🌐 Exploring frontend and backend development
+- 🗄️ Practicing SQL and database management
+- 🛠️ Building practical projects to strengthen my skills
+- 🎯 Goal: Start my career as a software developer
 
----
+**My philosophy:** Learn the concept, build the project, understand the problem, and improve every day.
 
-<!-- ================= TECHNICAL SKILLS ================= -->
-
-<h2 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2200&pause=800&color=39FF14&center=true&vCenter=true&width=650&height=55&lines=%3C+TECHNICAL+SKILLS+%2F%3E" alt="Animated technical skills title"/>
-</h2>
-
-### <span style="color:#00F5D4">⚡ PROGRAMMING LANGUAGES</span>
-
-<p>
-<img src="https://img.shields.io/badge/Python-00D9FF?style=for-the-badge&logo=python&logoColor=002B36" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-39FF14?style=for-the-badge&logo=javascript&logoColor=002B36" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/SQL-00F5D4?style=for-the-badge&logo=mysql&logoColor=002B36" alt="SQL"/>
-</p>
-
-### <span style="color:#00F5D4">🌐 WEB TECHNOLOGIES</span>
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=002B36" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-00D9FF?style=for-the-badge&logo=css3&logoColor=002B36" alt="CSS3"/>
-<img src="https://img.shields.io/badge/DOM-39FF14?style=for-the-badge&logo=javascript&logoColor=002B36" alt="DOM"/>
-</p>
-
-### <span style="color:#00F5D4">🛠 FRAMEWORKS & LIBRARIES</span>
-
-<p>
-<img src="https://img.shields.io/badge/Flask-39FF14?style=for-the-badge&logo=flask&logoColor=002B36" alt="Flask"/>
-<img src="https://img.shields.io/badge/Tkinter-00F5D4?style=for-the-badge&labelColor=003B36" alt="Tkinter"/>
-<img src="https://img.shields.io/badge/Matplotlib-00D9FF?style=for-the-badge&labelColor=003B36" alt="Matplotlib"/>
-</p>
-
-### <span style="color:#00F5D4">💾 DATABASES & TOOLS</span>
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-00D9FF?style=for-the-badge&logo=mysql&logoColor=002B36" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQLite-39FF14?style=for-the-badge&logo=sqlite&logoColor=002B36" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Git-FF6B35?style=for-the-badge&logo=git&logoColor=002B36" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-00F5D4?style=for-the-badge&logo=github&logoColor=002B36" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS%20Code-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=002B36" alt="VS Code"/>
-</p>
-
-### <span style="color:#00F5D4">🧠 CORE CONCEPTS</span>
-
-<p>
-<img src="https://img.shields.io/badge/OOP-00F5D4?style=flat-square&labelColor=003B36" alt="OOP"/>
-<img src="https://img.shields.io/badge/CRUD-39FF14?style=flat-square&labelColor=003B36" alt="CRUD"/>
-<img src="https://img.shields.io/badge/API%20INTEGRATION-00D9FF?style=flat-square&labelColor=003B36" alt="API integration"/>
-<img src="https://img.shields.io/badge/DEBUGGING-FF6B35?style=flat-square&labelColor=003B36" alt="Debugging"/>
-<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-00F5D4?style=flat-square&labelColor=003B36" alt="Problem solving"/>
-</p>
+<br clear="right"/>
 
 ---
 
-<!-- ================= CINEMATIC PROJECT SHOWCASE ================= -->
+## `02` // TECH ARSENAL
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B36,50:006B5E,100:00F5D4&height=3&section=header" width="100%" alt="Neon project divider"/>
+### ⚡ Programming Languages
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2000&pause=700&color=00F5D4&center=true&vCenter=true&width=850&height=65&lines=PROJECTS+%2F%2F+SHOWCASE;FIVE+PROJECTS.+ONE+GOAL.;IDEAS+INTO+REALITY." alt="Animated project showcase title"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=1600&pause=600&color=39FF14&center=true&vCenter=true&width=650&height=35&lines=%3E+SELECTED+PROJECTS; %3E+DESIGNED+%26+DEVELOPED; %3E+ALWAYS+IMPROVING" alt="Animated project subtitle"/>
+### 🌐 Frameworks & Libraries
 
-</div>
+<img src="https://skillicons.dev/icons?i=flask,tkinter&theme=dark" />
 
-<!-- PROJECT 01 -->
+### 🗄️ Databases & Developer Tools
 
-<h2 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=1800&pause=700&color=00F5D4&center=true&vCenter=true&width=850&height=60&lines=%5B+01+%5D+AI+VOICE+ASSISTANT" alt="AI Voice Assistant animated title"/>
-</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI%20PROJECT-00F5D4?style=for-the-badge&labelColor=003B36" alt="AI project"/>
-<img src="https://img.shields.io/badge/PYTHON-00D9FF?style=for-the-badge&logo=python&logoColor=002B36" alt="Python"/>
-<img src="https://img.shields.io/badge/FLASK-39FF14?style=for-the-badge&logo=flask&logoColor=002B36" alt="Flask"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-FF6B35?style=for-the-badge&logo=javascript&logoColor=002B36" alt="JavaScript"/>
-
-</div>
-
-**Overview:** An AI-powered voice assistant that accepts browser voice input and returns intelligent responses.
-
-**Features**
-- Voice input using browser speech recognition.
-- AI-generated responses through an API.
-- Interactive web interface.
-- Flask backend integration.
-
-<div align="center">
-
-<a href="https://github.com/saritha922">
-<img src="https://img.shields.io/badge/EXPLORE%20ON%20GITHUB-00F5D4?style=for-the-badge&logo=github&logoColor=002B36" alt="Explore AI Voice Assistant"/>
-</a>
-
-</div>
-
----
-
-<!-- PROJECT 02 -->
-
-<h2 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=1800&pause=700&color=39FF14&center=true&vCenter=true&width=850&height=60&lines=%5B+02+%5D+BMI+CALCULATOR" alt="BMI Calculator animated title"/>
-</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DESKTOP%20APP-39FF14?style=for-the-badge&labelColor=003B36" alt="Desktop app"/>
-<img src="https://img.shields.io/badge/PYTHON-00D9FF?style=for-the-badge&logo=python&logoColor=002B36" alt="Python"/>
-<img src="https://img.shields.io/badge/SQLITE-00F5D4?style=for-the-badge&logo=sqlite&logoColor=002B36" alt="SQLite"/>
-<img src="https://img.shields.io/badge/MATPLOTLIB-FF6B35?style=for-the-badge&labelColor=003B36" alt="Matplotlib"/>
-
-</div>
-
-**Overview:** A BMI calculator desktop application with saved history and visual BMI trends.
-
-**Features**
-- BMI calculation and input validation.
-- SQLite database for storing records.
-- History view.
-- Matplotlib trend graphs.
-
-<div align="center">
-
-<a href="https://github.com/saritha922">
-<img src="https://img.shields.io/badge/EXPLORE%20ON%20GITHUB-39FF14?style=for-the-badge&logo=github&logoColor=002B36" alt="Explore BMI Calculator"/>
-</a>
-
-</div>
-
----
-
-<!-- PROJECT 03 -->
-
-<h2 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=1800&pause=700&color=00D9FF&center=true&vCenter=true&width=850&height=60&lines=%5B+03+%5D+WEATHER+APPLICATION" alt="Weather application animated title"/>
-</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/API%20PROJECT-00D9FF?style=for-the-badge&labelColor=003B36" alt="API project"/>
-<img src="https://img.shields.io/badge/PYTHON-00F5D4?style=for-the-badge&logo=python&logoColor=002B36" alt="Python"/>
-<img src="https://img.shields.io/badge/OPENWEATHER%20API-39FF14?style=for-the-badge&labelColor=003B36" alt="OpenWeather API"/>
-
-</div>
-
-**Overview:** A weather application that retrieves current weather conditions from the OpenWeather API.
-
-**Features**
-- Fetches current weather information.
-- Displays temperature and weather conditions.
-- Integrates an external API.
-- Uses an API key for requests.
-
-<div align="center">
-
-<a href="https://github.com/saritha922">
-<img src="https://img.shields.io/badge/EXPLORE%20ON%20GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=002B36" alt="Explore Weather Application"/>
-</a>
-
-</div>
-
----
-
-<!-- PROJECT 04 -->
-
-<h2 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=1800&pause=700&color=FF6B35&center=true&vCenter=true&width=850&height=60&lines=%5B+04+%5D+SNAKE+GAME" alt="Snake Game animated title"/>
-</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/WEB%20GAME-FF6B35?style=for-the-badge&labelColor=003B36" alt="Web game"/>
-<img src="https://img.shields.io/badge/HTML5-00D9FF?style=for-the-badge&logo=html5&logoColor=002B36" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-00F5D4?style=for-the-badge&logo=css3&logoColor=002B36" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-39FF14?style=for-the-badge&logo=javascript&logoColor=002B36" alt="JavaScript"/>
-
-</div>
-
-**Overview:** An interactive browser-based snake game built using HTML, CSS, and JavaScript.
-
-**Features**
-- Interactive gameplay.
-- Score and high-score tracking.
-- Local storage for saving high scores.
-- Game sounds and visual styling.
-
-<div align="center">
-
-<a href="https://github.com/saritha922">
-<img src="https://img.shields.io/badge/EXPLORE%20ON%20GITHUB-FF6B35?style=for-the-badge&logo=github&logoColor=002B36" alt="Explore Snake Game"/>
-</a>
-
-</div>
-
----
-
-<!-- PROJECT 05 -->
-
-<h2 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=1800&pause=700&color=C084FC&center=true&vCenter=true&width=850&height=60&lines=%5B+05+%5D+PASSWORD+GENERATOR" alt="Password Generator animated title"/>
-</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SECURITY%20UTILITY-C084FC?style=for-the-badge&labelColor=003B36" alt="Security utility"/>
-<img src="https://img.shields.io/badge/PYTHON-00D9FF?style=for-the-badge&logo=python&logoColor=002B36" alt="Python"/>
-
-</div>
-
-**Overview:** A Python utility that generates passwords using user-selected length and character options.
-
-**Features**
-- Configurable password length.
-- Character selection options.
-- Simple password generation workflow.
-
-<div align="center">
-
-<a href="https://github.com/saritha922">
-<img src="https://img.shields.io/badge/EXPLORE%20ON%20GITHUB-C084FC?style=for-the-badge&logo=github&logoColor=002B36" alt="Explore Password Generator"/>
-</a>
-
-</div>
-
----
-
-<!-- ================= GITHUB STATS ================= -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2000&pause=700&color=00F5D4&center=true&vCenter=true&width=700&height=55&lines=GITHUB+ACTIVITY;CODE.+COMMIT.+GROW." alt="GitHub activity animated title"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode&theme=dark" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=saritha922&show_icons=true&hide_border=true&bg_color=042F2E&title_color=00F5D4&text_color=39FF14&icon_color=00D9FF" alt="GitHub statistics"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saritha922&layout=compact&hide_border=true&bg_color=042F2E&title_color=00F5D4&text_color=39FF14" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=saritha922&hide_border=true&background=042F2E&ring=00F5D4&fire=FF6B35&currStreakLabel=39FF14&sideLabels=00D9FF&currStreakNum=00F5D4&sideNums=39FF14&dates=00D9FF" alt="GitHub contribution streak"/>
+<img src="https://img.shields.io/badge/OOP-7C3AED?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/CRUD-06B6D4?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-10B981?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Debugging-F97316?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Problem%20Solving-DB2777?style=flat-square&logoColor=white" />
 
 </div>
 
 ---
 
-<!-- ================= ANIMATED FOOTER ================= -->
+## `03` // FEATURED PROJECTS
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2000&pause=700&color=39FF14&center=true&vCenter=true&width=800&height=55&lines=THANKS+FOR+VISITING+MY+PROFILE;KEEP+LEARNING.+KEEP+BUILDING.;THE+NEXT+PROJECT+STARTS+NOW." alt="Animated profile footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Ideas+%E2%86%92+Code;Code+%E2%86%92+Projects;Projects+%E2%86%92+Experience" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,30:00D9FF,65:39FF14,100:7C3AED&height=130&section=footer&animation=twinkling" alt="Animated neon footer"/>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ AI Voice Assistant
+
+<img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Flask-06B6D4?style=flat-square" />
+<img src="https://img.shields.io/badge/JavaScript-FACC15?style=flat-square" />
+
+A voice-enabled web application that accepts spoken input and generates AI-powered responses.
+
+**Highlights**
+- Browser speech recognition
+- AI API integration
+- Flask backend
+- Interactive web interface
+
+[Explore my GitHub repositories →](https://github.com/saritha922?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 BMI Calculator
+
+<img src="https://img.shields.io/badge/Python-06B6D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Tkinter-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/SQLite-10B981?style=flat-square" />
+
+A desktop application for calculating BMI and tracking previous measurements.
+
+**Highlights**
+- Input validation
+- SQLite history storage
+- BMI trend visualization
+- Matplotlib charts
+
+[Explore my GitHub repositories →](https://github.com/saritha922?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌦️ Weather Application
+
+<img src="https://img.shields.io/badge/Python-06B6D4?style=flat-square" />
+<img src="https://img.shields.io/badge/API-7C3AED?style=flat-square" />
+
+A weather application that retrieves current weather information using an external API.
+
+**Highlights**
+- OpenWeather API integration
+- Live weather data
+- Temperature and conditions
+- API response handling
+
+[Explore my GitHub repositories →](https://github.com/saritha922?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐍 Snake Game
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" />
+<img src="https://img.shields.io/badge/JavaScript-FACC15?style=flat-square" />
+
+A browser-based game built with JavaScript and interactive gameplay features.
+
+**Highlights**
+- Keyboard controls
+- Score and high score
+- Local storage
+- Game sounds and visuals
+
+[Explore my GitHub repositories →](https://github.com/saritha922?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔐 Password Generator
+
+<img src="https://img.shields.io/badge/Python-06B6D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Logic%20Building-7C3AED?style=flat-square" />
+
+A utility project that generates passwords using configurable character combinations.
+
+**Highlights**
+- Random password generation
+- Character combination logic
+- Practical utility development
+
+[Explore my GitHub repositories →](https://github.com/saritha922?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` // GITHUB ACTIVITY
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saritha922&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB&ring_color=7C3AED" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saritha922&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=saritha922&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=F97316&currStreakLabel=22D3EE" />
+
+</div>
+
+---
+
+## `05` // CURRENT MISSION
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-Master%20Python-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-Strengthen%20SQL-7C3AED?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/03-Build%20Full%20Stack%20Projects-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/04-Prepare%20for%20Interviews-F97316?style=for-the-badge" />
+
+<br/><br/>
+
+**Not just learning to code — learning to solve real problems.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+learn%2C+build%2C+and+grow+together." />
+
+<a href="https://github.com/saritha922">
+<img src="https://img.shields.io/badge/CONNECT%20ON-GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:070B18&height=120&section=footer" />
 
 </div>
