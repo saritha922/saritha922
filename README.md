@@ -89,58 +89,57 @@ A Computer Science graduate focused on Python Full Stack Development. I enjoy tu
 
 ---
 
-<!-- =============== 03: PROJECT SHOWCASE =============== -->
+
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=1000&color=49318C&center=true&vCenter=true&width=650&lines=%5B+03+%5D+PROJECT+SHOWCASE" />
+# 🚀 PROJECT SHOWCASE
 
-<sub>FIVE PROJECTS • HANDS-ON LEARNING • PRACTICAL DEVELOPMENT</sub>
+**FIVE PROJECTS • PRACTICAL DEVELOPMENT • CONTINUOUS LEARNING**
 
 </div>
+
+---
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=AI%20VOICE%20ASSISTANT&fontSize=22&fontColor=FFFFFF&color=0:111C3D,100:49318C" />
-</div>
+# 🎙️ AI VOICE ASSISTANT
+
+<img src="https://img.shields.io/badge/AI_POWERED-49318C?style=for-the-badge" />
 
 A voice-enabled web application combining browser speech recognition with AI-generated responses.
 
-**TECHNOLOGIES**
+**TECH STACK**
 
-<img src="https://img.shields.io/badge/Python-174EA6?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-075E66?style=flat-square" />
-<img src="https://img.shields.io/badge/JavaScript-49318C?style=flat-square&logo=javascript&logoColor=white" />
+`Python` `Flask` `JavaScript` `AI API`
 
 - Browser voice input
 - AI API integration
 - Interactive web interface
 
-[Explore my repositories →](https://github.com/saritha922?tab=repositories)
+[**VIEW PROJECTS →**](https://github.com/saritha922?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=BMI%20CALCULATOR&fontSize=22&fontColor=FFFFFF&color=0:075E66,100:174EA6" />
-</div>
+# 📊 BMI CALCULATOR
+
+<img src="https://img.shields.io/badge/DESKTOP_APPLICATION-075E66?style=for-the-badge" />
 
 A desktop application for calculating BMI, saving measurement history, and visualizing trends.
 
-**TECHNOLOGIES**
+**TECH STACK**
 
-<img src="https://img.shields.io/badge/Python-174EA6?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-075E66?style=flat-square" />
-<img src="https://img.shields.io/badge/Matplotlib-49318C?style=flat-square" />
+`Python` `Tkinter` `SQLite` `Matplotlib`
 
 - Input validation
 - Database-backed history
 - BMI trend charts
 
-[Explore my repositories →](https://github.com/saritha922?tab=repositories)
+[**VIEW PROJECTS →**](https://github.com/saritha922?tab=repositories)
 
 </td>
 </tr>
@@ -148,43 +147,40 @@ A desktop application for calculating BMI, saving measurement history, and visua
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=WEATHER%20APPLICATION&fontSize=22&fontColor=FFFFFF&color=0:174EA6,100:075E66" />
-</div>
+# 🌦️ WEATHER APPLICATION
 
-Retrieves current weather information using an external weather API.
+<img src="https://img.shields.io/badge/API_INTEGRATION-174EA6?style=for-the-badge" />
 
-**TECHNOLOGIES**
+An application that retrieves current weather information from an external weather API.
 
-<img src="https://img.shields.io/badge/Python-174EA6?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenWeather_API-075E66?style=flat-square" />
+**TECH STACK**
 
-- Current weather data
+`Python` `OpenWeather API`
+
+- Current weather information
 - Temperature and conditions
 - API response handling
 
-[Explore my repositories →](https://github.com/saritha922?tab=repositories)
+[**VIEW PROJECTS →**](https://github.com/saritha922?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=SNAKE%20GAME&fontSize=22&fontColor=FFFFFF&color=0:49318C,100:111C3D" />
-</div>
+# 🐍 SNAKE GAME
+
+<img src="https://img.shields.io/badge/INTERACTIVE_WEB_GAME-49318C?style=for-the-badge" />
 
 A browser-based game with keyboard controls, scoring, and saved high scores.
 
-**TECHNOLOGIES**
+**TECH STACK**
 
-<img src="https://img.shields.io/badge/HTML-174EA6?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-075E66?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-49318C?style=flat-square&logo=javascript&logoColor=white" />
+`HTML` `CSS` `JavaScript`
 
 - Interactive gameplay
 - Score tracking
 - Local storage and sounds
 
-[Explore my repositories →](https://github.com/saritha922?tab=repositories)
+[**VIEW PROJECTS →**](https://github.com/saritha922?tab=repositories)
 
 </td>
 </tr>
@@ -192,27 +188,28 @@ A browser-based game with keyboard controls, scoring, and saved high scores.
 <tr>
 <td colspan="2" valign="top">
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&text=PASSWORD%20GENERATOR&fontSize=22&fontColor=FFFFFF&color=0:111C3D,50:174EA6,100:075E66" />
-</div>
+# 🔐 PASSWORD GENERATOR
+
+<img src="https://img.shields.io/badge/PYTHON_UTILITY-174EA6?style=for-the-badge" />
 
 A Python utility that generates random passwords using combinations of characters.
 
-**TECHNOLOGIES**
+**TECH STACK**
 
-<img src="https://img.shields.io/badge/Python-174EA6?style=flat-square&logo=python&logoColor=white" />
+`Python`
 
 - Random password generation
 - Character combination support
 - Simple and practical utility
 
-[Explore my repositories →](https://github.com/saritha922?tab=repositories)
+[**VIEW PROJECTS →**](https://github.com/saritha922?tab=repositories)
 
 </td>
 </tr>
 </table>
 
 ---
+
 
 <!-- =============== FOOTER =============== -->
 
